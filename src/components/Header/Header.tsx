@@ -1,5 +1,5 @@
+import Constants from 'expo-constants';
 import React from 'react';
-import { StatusBar } from 'react-native';
 
 import { Container, H1, Span } from './styles';
 
@@ -9,10 +9,9 @@ interface HeaderProps {
 }
 
 export function Header({ checkedTotalProducts,totalProducts }: HeaderProps) {
-
   
   return (
-    <Container heightStatus={StatusBar.currentHeight?.toFixed(0)}>
+    <Container heightStatus={Constants.statusBarHeight?.toFixed(0)}>
       <H1>Lista de compras</H1>
       <Span>
         {checkedTotalProducts}/{totalProducts}
