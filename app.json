@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pilates-app",
-    "slug": "pilates-app",
+    "name": "web-art-app",
+    "slug": "web-art-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

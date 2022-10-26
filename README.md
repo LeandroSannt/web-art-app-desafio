@@ -1,14 +1,7 @@
-<h1 align='center'>Pilates-App</h1>
+<h1 align='center'>Desafio-web-art-app</h1>
 
 
-<p>Aplicativo para monitoramento de alunos, da turma de pilates, da professora cintia freitas, aonde esta consumido a api que fornece os dados que vem do app desktop  </p>
-
-<div align="center">
-<img width="200" heigth="200"  align="center" src="assets/preview.jpg"><Br> <Br>
-</div>
-
-
-
+<p>Todo para lista de compras com efeito sonoro </p>
 
 ## 🛠 Tecnologias | Dependências
 
@@ -20,12 +13,11 @@
 ✅ Axios <br>
 ✅ React-Native <br>
 ✅ Typescript <br>
-✅ styled-components <br>
-✅ react-navigation <br>
-
+✅ Styled-components <br>
+✅ AsyncStorage <br>
 
 ## <h4 align="center"> 
-    🚀 Projeto em desenvolvimento
+    🚀 Projeto concluido
 ## pré-requisito
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: 
@@ -40,11 +32,11 @@ Além disso é bom ter um editor para executar o código como [VsCode](https://c
 
 #clone este repositório
 
-$ git clone https://github.com/LeandroSannt/pilates-app.git
+$ git clone https://github.com/LeandroSannt/web-art-app.git
 
 ## acesse a pasta do projeto no terminal/cmd
 
-$ cd pilates-app
+$ cd web-art-app
 
 ## instale as dependencias 
 
